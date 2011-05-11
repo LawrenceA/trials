@@ -1,0 +1,5 @@
+lbl 1
+qwertyuiopasdfghjklzxcvbnm
+QWERTYUIOPASDFGHJKLZXCVBNM
+print "hello"
+goto 1
